@@ -1,5 +1,5 @@
-<h1> 62. Unique Paths -Medium</h1> 
-<p>A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).</p>
+<h1> 62. Unique Paths --Medium</h1> 
+<p>A robot is located at the top-left corner of a <i>m</i> x <i>n</i> grid (marked 'Start' in the diagram below).</p>
 <p>The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).</p>
 <p>How many possible unique paths are there?</p>
 
@@ -20,9 +20,9 @@ class Solution(object):
 
 
 
-<h1>63. Unique Paths II</h1>
+<h1>63. Unique Paths II --Medium</h1>
 
-<p>A robot is located at the top-left corner of a *m* x *n* grid (marked 'Start' in the diagram below).</p>
+<p>A robot is located at the top-left corner of a <i>m</i> x <i>n</i> grid (marked 'Start' in the diagram below).</p>
 <p>The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).</p>
 <p>Now consider if some obstacles are added to the grids. How many unique paths would there be?</p>
 
@@ -35,8 +35,7 @@ class Solution(object):
         """
         if not obstacleGrid:
             return 0
-        m=len(obstacleGrid)
-        n=len(obstacleGrid[0])
+        m, n=len(obstacleGrid), len(obstacleGrid[0])
         res=[[0 for _ in range(n)] for _ in range(m)]
         for j in range(n):
             if obstacleGrid[0][j]==1:
