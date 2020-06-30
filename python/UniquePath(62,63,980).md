@@ -2,7 +2,6 @@
 <p>A robot is located at the top-left corner of a <i>m</i> x <i>n</i> grid (marked 'Start' in the diagram below).</p>
 <p>The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).</p>
 <p>How many possible unique paths are there?</p>
-
 ``` python
 class Solution(object):
     def uniquePaths(self, m, n):
@@ -21,11 +20,9 @@ class Solution(object):
 
 
 <h1>63. Unique Paths II --Medium</h1>
-
 <p>A robot is located at the top-left corner of a <i>m</i> x <i>n</i> grid (marked 'Start' in the diagram below).</p>
 <p>The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).</p>
 <p>Now consider if some obstacles are added to the grids. How many unique paths would there be?</p>
-
 ```python
 class Solution(object):
     def uniquePathsWithObstacles(self, obstacleGrid):
