@@ -9,8 +9,8 @@
 |441  | [Arranging Coins](https://github.com/1464439923/leetcode/blob/master/python/ArrangingCoins(441).md) | Binary Search          | Easy    |
 | 454   | [4Sum II](https://github.com/1464439923/leetcode/blob/master/python/4SumII(454).md) | Data Structure                | Medium     |
 
-<h2>Backtracking</h2>
+## Backtracking
 | #    | Title                                                        | Topics              | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------- | ---------- |
-| 51  | [N-Queens](https://github.com/1464439923/leetcode/blob/master/python/UniquePath(62%2C63%2C980).md) | Backtracking | Hard     |
-| 52   | [N-Queens II](https://github.com/1464439923/leetcode/blob/master/python/UniquePath(62%2C63%2C980).md) | Backtracking | Medium     |
+| 51  | [N-Queens](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md).md) | Backtracking | Hard     |
+| 52   | [N-Queens II](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md) | Backtracking | Hard     |
