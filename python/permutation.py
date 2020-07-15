@@ -1,8 +1,4 @@
 def nextPermutation(nums):
-    """
-    :type nums: List[int]
-    :rtype: None Do not return anything, modify nums in-place instead.
-    """
     i = len(nums) - 1
     while i > 0 and nums[i] <= nums[i - 1]:
         i -= 1  # nums[i:] in decreasing order
@@ -15,10 +11,6 @@ def nextPermutation(nums):
     return nums
 
 def previousPermutation(nums):
-    """
-    :type nums: List[int]
-    :rtype: None Do not return anything, modify nums in-place instead.
-    """
     i = len(nums) - 1
     while i > 0 and nums[i] >= nums[i - 1]:
         i -= 1  # nums[i:] in ascending order
