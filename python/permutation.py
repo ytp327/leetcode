@@ -11,7 +11,7 @@ def nextPermutation(nums):
         while j < len(nums) and nums[j] > nums[i - 1]:
             j += 1  # nums[i-1] and nums[j-1] are closest
         nums[i - 1], nums[j - 1] = nums[j - 1], nums[i - 1]
-    nums[i:] = sorted(nums[i:])
+    nums[i:] = nums[i:][::-1]
     return nums
 
 def previousPermutation(nums):
