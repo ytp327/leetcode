@@ -12,5 +12,5 @@
 ## Backtracking
 | #    | Title                                                        | Topics              | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------- | ---------- |
-| 51  | [N-Queens](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md).md) | Backtracking | Hard     |
+| 51  | [N-Queens](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md) | Backtracking | Hard     |
 | 52   | [N-Queens II](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md) | Backtracking | Hard     |
