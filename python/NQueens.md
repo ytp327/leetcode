@@ -62,7 +62,7 @@ Explanation: There are two distinct solutions to the 4-queens puzzle as shown be
   ".Q.."]
 ]</pre>
 
-```python
+``` python
 class Solution(object):
     def totalNQueens(self, n):
         """
