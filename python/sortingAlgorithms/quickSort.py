@@ -1,7 +1,5 @@
 import random
 def partition(nums, start, end):
-    pivot = random.randrange(start, end+1, 1)
-    nums[end], nums[pivot] = nums[pivot], nums[end]
     j = start
     for i in range(start, end):
         if nums[i] < nums[end]:
@@ -19,6 +17,7 @@ def _quicksort(nums, start, end):
 
 
 def quicksort(nums):
+    random.shuffle(nums)
     _quicksort(nums, 0, len(nums) - 1)
 
 a=[5,4,3,2,1,23,4,2,20,0,0,2,1]
