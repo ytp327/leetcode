@@ -14,7 +14,7 @@
 | 51  | [N-Queens](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md) | Backtracking | Hard     |
 | 52   | [N-Queens II](https://github.com/1464439923/leetcode/blob/master/python/NQueens.md) | Backtracking | Hard     |
 
-##　Dynamic programming
+## Dynamic programming
 | #    | Title                                                        | Topics              | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------- | ---------- |
 | 62   | [Unique Paths](https://github.com/1464439923/leetcode/blob/master/python/UniquePath(62%2C63%2C980).md) | Dynamic Programming | Medium     |
