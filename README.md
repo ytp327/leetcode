@@ -2,6 +2,7 @@
 
 | #    | Title                                                        | Topics              | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------- | ---------- |
+| 4   | [Median of Two Sorted Arrays](https://github.com/1464439923/leetcode/blob/master/python/MedianOfTwoSortedArrays(4).md) | Binary Search                 | Hard     |
 | 79   | [Word Search](https://github.com/1464439923/leetcode/blob/master/python/WordSearch(79%2C%20212).md) | DFS                 | Medium     |
 | 212  | [Word Search II](https://github.com/1464439923/leetcode/blob/master/python/WordSearch(79%2C%20212).md) | DFS, Trie           | Hard       |
 | 441  | [Arranging Coins](https://github.com/1464439923/leetcode/blob/master/python/ArrangingCoins(441).md) | Binary Search          | Easy    |
