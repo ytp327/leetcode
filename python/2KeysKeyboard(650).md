@@ -40,12 +40,11 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        res = 0
-        for d in range(2, n+1):
-        	while not n%d:
+        res, d = 0, 2
+        while n > 1:
+        	while not n % d:
         		res += d
         		n /= d
-        	if n < d:
-        		break
+        	d += 1
         return res
 ```
