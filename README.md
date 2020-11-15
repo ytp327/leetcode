@@ -1,5 +1,7 @@
 # Leetcode
 
+<img src = "pic/leetcode.png">
+
 | #    | Title                                                        | Topics              | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------- | ---------- |
 | 4   | [Median of Two Sorted Arrays](https://github.com/1464439923/leetcode/blob/master/python/MedianOfTwoSortedArrays(4).md) | Binary Search                 | Hard     |
