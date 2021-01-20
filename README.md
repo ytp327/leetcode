@@ -21,6 +21,7 @@
 ## Dynamic programming
 | #    | Title                                                        | Topics              | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------- | ---------- |
+| 10   | [Regular Expression Matching](https://github.com/ytp327/leetcode/blob/master/python/Regular%20Expression%20Matching(10).md) | Dynamic Programming | Hard     |
 | 62   | [Unique Paths](https://github.com/1464439923/leetcode/blob/master/python/UniquePath(62%2C63%2C980).md) | Dynamic Programming | Medium     |
 | 63   | [Unique Paths II](https://github.com/1464439923/leetcode/blob/master/python/UniquePath(62%2C63%2C980).md) | Dynamic Programming | Medium     |
 | 139   | [Word Search](https://github.com/1464439923/leetcode/blob/master/python/WordBreak(139%2C%20140).md) | Dynamic Programming | Medium     |
